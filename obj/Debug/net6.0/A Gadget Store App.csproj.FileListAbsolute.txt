@@ -1,0 +1,15 @@
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\A Gadget Store App.csproj.AssemblyReference.cache
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\A Gadget Store App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\A Gadget Store App.AssemblyInfoInputs.cache
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\A Gadget Store App.AssemblyInfo.cs
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\A Gadget Store App.csproj.CoreCompileInputs.cache
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\bin\Debug\net6.0\A Gadget Store App.exe
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\bin\Debug\net6.0\A Gadget Store App.deps.json
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\bin\Debug\net6.0\A Gadget Store App.runtimeconfig.json
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\bin\Debug\net6.0\A Gadget Store App.dll
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\bin\Debug\net6.0\A Gadget Store App.pdb
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\A Gadget Store App.dll
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\refint\A Gadget Store App.dll
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\A Gadget Store App.pdb
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\A Gadget Store App.genruntimeconfig.cache
+C:\Users\ELIAS BASHIRUDEEN\OneDrive\Desktop\A Gadget Store App\obj\Debug\net6.0\ref\A Gadget Store App.dll
